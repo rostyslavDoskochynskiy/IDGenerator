@@ -1,0 +1,11 @@
+{
+  "name": "idgeneratormodule",
+  "version": "2.0.0",
+  "description": "Id Generator. You can use this module very simple. Just you have to import IDGenerator and call generateId method",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rostyk Doskochynskyi",
+  "license": "ISC"
+}
