@@ -17,6 +17,3 @@ const app = (function () {
         generateId
     }
 }());
-
-
-//
